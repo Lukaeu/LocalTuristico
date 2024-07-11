@@ -39,3 +39,21 @@ footer {
 #site p {
     text-align: justify;
 }
+
+#example3 a {
+    color: purple;
+    text-decoration: none;
+    
+}
+
+#segundo li {
+    color: rgb(216, 3, 120);
+}
+
+#example3 a + a {
+    color: orangered
+}
+
+a {
+    text-decoration: none;
+}
