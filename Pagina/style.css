@@ -1,0 +1,41 @@
+img {
+    width: 800px;
+}
+
+#tudao {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 24px;
+}
+
+
+
+#cabecalho ul {
+    padding-left: 0;
+    font-size: smaller;
+}
+
+#cabecalho p {
+    text-align: justify;
+
+}
+
+#start ul {
+    font-size: smaller;
+    padding-left: 0px;
+    padding-top: 12px;
+}
+
+#start h1 {
+    line-height: 0;
+}
+
+footer {
+    padding: 24px;
+    text-align: center;
+}
+
+#site p {
+    text-align: justify;
+}
